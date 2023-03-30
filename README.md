@@ -8,18 +8,18 @@ Find out more [Free React.js and React Native Themes at StartReact.com](http://w
 
 
 ## Installation
-####1. Clone this project or Download that ZIP file
+1. Clone this project or Download that ZIP file
 
 ```sh
 $ git clone https://github.com/react-antd-dashboard
 ```
 
-####2.  Make sure you have [npm](https://www.npmjs.org/) installed globally
+2.  Make sure you have [npm](https://www.npmjs.org/) installed globally
 
 More details here
 https://nodejs.org/en/download/
 
-####3. On the command prompt run the following commands
+3. On the command prompt run the following commands
 
 ```sh
 $ cd `resume`

@@ -8,21 +8,21 @@ Find out more [Free React.js and React Native Themes at StartReact.com](http://w
 
 
 ## Installation
-1. Clone this project or Download that ZIP file
+####1. Clone this project or Download that ZIP file
 
 ```sh
-$ git clone https://github.com/react-antd-dashboard
+$ git clone https://github.com/
 ```
 
-2.  Make sure you have [npm](https://www.npmjs.org/) installed globally
+####2.  Make sure you have [npm](https://www.npmjs.org/) installed globally
 
 More details here
 https://nodejs.org/en/download/
 
-3. On the command prompt run the following commands
+####3. On the command prompt run the following commands
 
 ```sh
-$ cd `resume`
+$ cd `react-antd-dashboard`
 ```
 ```sh
 $ npm install 
@@ -44,3 +44,7 @@ $ npm run build
 $ npm run clean
 ```
 
+
+## More Information
+#### read comment in code for more action for example after submit a form and navigate to home! 
+#### I use free fake Api from  [jsonplaceholder](https://jsonplaceholder.typicode.com/) 

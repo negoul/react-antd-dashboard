@@ -11,7 +11,7 @@ Find out more [Free React.js and React Native Themes at StartReact.com](http://w
 ####1. Clone this project or Download that ZIP file
 
 ```sh
-$ git clone https://github.com/
+$ git clone https://github.com/negoul/react-antd-dashboard.git
 ```
 
 ####2.  Make sure you have [npm](https://www.npmjs.org/) installed globally
